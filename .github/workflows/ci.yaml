@@ -4,7 +4,7 @@ on:
   push:
 
 jobs:
-  Data Ingection:
+   Data_ingection:
     runs-on: ubuntu-lastest
     steps:
       - name: checkout code 
